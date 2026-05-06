@@ -7,6 +7,11 @@
 #include <vector>
 #include <stdexcept>
 
+
+// ============================================================
+// Dual Number Class (Forward Mode AD)
+// ============================================================
+
 template<typename T>
 class Dual {
 private:
