@@ -6,9 +6,6 @@
 #include <functional>
 #include "dual.h"
 
-// ============================================================
-// Dual Number Class (Forward Mode AD)
-// ============================================================
 
 // ============================================================
 // Math functions (namespace to avoid conflicts)
